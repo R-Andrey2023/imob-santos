@@ -1,0 +1,126 @@
+body{
+    margin: 0;
+    font-family: Tahoma;
+}
+
+div{
+    text-align: center;
+    padding: 10px 30px;
+}
+
+div p{
+    margin: 10px auto;
+    text-align: justify;
+    width: 980px;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.secao-um{
+    background-color: #afddfb;
+}
+
+.secao-um img{
+    width: 150px;
+}
+
+.secao-um p{
+    margin-top: 15px;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+p a{
+    font-size: 18px;
+    color: #1d1d1d;
+    border-bottom:2px solid #1d1d1d;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+span{
+    font-weight: bold;
+}
+
+.secao-tres h1{
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+
+.secao-tres h2, .secao-cinco h2{
+    color: #1c81c0;
+}
+
+.secao-tres img,.secao-cinco img{
+    width: 450px;
+}
+
+.secao-tres p span, .secao-cinco p span{
+    color: #1d80c1;
+}
+
+.secao-quatro{
+    background-color: #1d80c1;
+}
+.secao-quatro h2, .secao-seis h3 {
+    color: #ffffff;
+    font-size: 28px;
+    line-height: 42px;
+}
+
+.secao-quatro p{
+    color: #ffffff;
+    line-height: 42PX;
+    font-size: 22px;
+    text-align: center;
+    width: 700px;
+}
+
+.secao-quatro p span{
+    color: #fff81b;
+}
+
+.secao-quatro ul{
+    margin: 40px auto;
+    width: 135px;
+}
+.secao-quatro ul li{
+    color: #ffffff;
+    line-height: 42px;
+    text-align: left;
+    font-size: 22px;
+}
+
+.assinatura{
+    background-color: #1d1d1d;
+    color: #ffffff;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.secao-seis{
+    background-color: #1d80c1;
+}
+.secao-seis p{
+    color: #ffffff;
+    background-color: #1d1d1d;
+    padding: 15px;
+    margin-top: 30px;
+}
+.secao-seis span{
+    color: #fff81b;
+}
+.secao-seis ul{
+    margin: 40px auto;
+    width: 210px; 
+}
+.secao-seis ul li{
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+}
+.secao-seis ul li a{
+    background-color:#ffffff;
+    color: #1d80c1;
+    border-radius: 5px;
+}
